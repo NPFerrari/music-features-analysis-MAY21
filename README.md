@@ -1,9 +1,11 @@
 # music-features-analysis-MAY21
 In this project, I have analysed how popular songs features have changed over time, starting from 2018 to 2021.
 
+
 **Introduction:**
 
 For this project, I decided to work on analysing different patterns of the most popular songs over time. In order to do this, I first worked on web scraping the Billboard top100 songs titles and artists by week starting from June 2018 until May 2021. Furthermore, I used the Spotify API wrapper to extract audio features for each of the song and finally analyse the dataset. 
+
 
 **The dataset:**
 
@@ -15,6 +17,7 @@ The final dataset was constructed by 15k hit songs and their respective audio fe
 - _Energy_: “(energy) represents a perceptual measure of intensity and activity. Typically, energetic tracks feel fast, loud, and noisy”.
 - _Danceability_: “Danceability describes how suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity. A value of 0.0 is least danceable and 1.0 is most danceable”.
 - _Valence_: “A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry)”.
+
 
 **Analysis of audio feaatures over time**:
 
@@ -28,6 +31,7 @@ Week 1
             Week 148
               Week 149
                 Week 150
+
 
 **Key Takeaways**:
 
@@ -43,6 +47,7 @@ The aim for using this procedure was to see if it would have been possible to sp
   Stay in the range of what works
   Acoustic songs --> popular in Winter (Dec, Xmas time)
   Danceable/Valence (happier) songs --> popular in Summer time (Jun)
-           
+      
+      
 
 **For an in-depth view on the project, this repository contains also a pdf presentation and the python codes. Have fun and let me know if you like my work!**
