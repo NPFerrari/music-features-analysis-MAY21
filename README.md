@@ -40,3 +40,5 @@ The aim for using this procedure was to see if it would have been possible to sp
   Acoustic songs --> popular in Winter (Dec, Xmas time)
   Danceable/Valence (happier) songs --> popular in Summer time (Jun)
            
+
+For an in-depth view on the project, this repository contains also a pdf presentation and the python codes. Have fun and let me know if you like my work!
